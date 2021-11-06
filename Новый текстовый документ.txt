@@ -1,0 +1,5 @@
+Your database has been setup. Use the following values:
+Database:	u3677576_xlebomania
+Host:	localhost
+Username:	u3677576_xlebomania
+Password:	nikusia220506
